@@ -4,7 +4,7 @@ I am Sebastian and welcome to my profile. Currently I'm proud studying on [Unive
 
 ## About Me
 - 🇨🇴 I am from Latin America/Colombia ◔ ⌣ ◔
-- 💻 Interested on DevOps and Cloud Computing ~(˘▾˘~)
+- 💻 Interested on DevOps and Cloud Computing -(˘▾˘-)
 - ⚡ You can find me doing LeetCode exercises on my free time ᕙ(⇀‸↼‶)ᕗ
 
 ## My Software Skills
