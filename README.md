@@ -1,11 +1,11 @@
 <h1 align="center"> Hi! Nice to meet you (✿◕‿◕) </h1>
 
-I am Sebastian and welcome to my profile. Currently I'm proud studying on [University Of The Valley](https://www.univalle.edu.co/) (╯°o°)ᕗ
+I am Sebastian and welcome to my profile. Currently I'm proud studying on [University Of The Valley](https://www.univalle.edu.co/)!
 
 ## About Me
-- 🇨🇴 I am from Latin America/Colombia ◔ ⌣ ◔
-- 💻 Interested on DevOps and Cloud Computing -(˘▾˘-)
-- ⚡ You can find me doing LeetCode exercises on my free time ᕙ(⇀‸↼‶)ᕗ
+- 🇨🇴 I am from Latin America/Colombia.
+- 💻 Interested on DevOps and Cloud Computing. -(˘▾˘-)
+- ⚡ You can find me doing LeetCode exercises on my free time.
 
 ## My Software Skills
 - Python 🐍
