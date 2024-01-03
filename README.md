@@ -15,6 +15,6 @@ I am Sebastian and welcome to my profile. Currently I'm proud studying on [Unive
 - Docker 🐳
 
 ## Where can you find me?
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg' alt='github' height='40'>](https://github.com/Seb0927)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://visualpharm.com/assets/852/Linkedin-595b40b65ba036ed117d4495.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebasti%C3%A1n-i-30b186213/)  
+[<img src='https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg' alt='github' height='40'>](https://github.com/Seb0927)  [<img src='https://visualpharm.com/assets/852/Linkedin-595b40b65ba036ed117d4495.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebasti%C3%A1n-i-30b186213/)  
 
 
