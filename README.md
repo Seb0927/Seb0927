@@ -22,7 +22,4 @@ I am Sebastian and welcome to my profile. Currently I'm proud studying on [Unive
   <a href= "https://www.linkedin.com/in/sebasti%C3%A1n-i-30b186213/">
     <img src="https://github.com/Seb0927/Seb0927/assets/83418390/e8bfe64b-4409-4779-8c3d-ae350b55bbd2" height='60'/>
   </a>
-  <a href= "https://leetcode.com/Seb0927">
-    <img src="https://github.com/Seb0927/Seb0927/assets/83418390/2b458027-1735-4837-8cc5-8e80cd13583f" height='60'/>
-  </a>
 </p>
