@@ -4,15 +4,19 @@ I am Sebastian and welcome to my profile. Currently I'm proud studying on [Unive
 
 ## About Me
 - I am from Latin America/Colombia 🇨🇴 .
-- Interested on DevOps and Cloud Computing. -(˘▾˘-) 💻.
+- Interested on Data Engineering and Web Development. -(˘▾˘-) 💻.
 - You can find me doing LeetCode exercises on my free time ⚡.
 
 ## My Software Skills
 - Python 🐍
-  - Django
-- Javascript 🌐
+- Javascript/Typescript 🌐
   - React/NextJS
+  - TailwindCSS 
+- PostgreSQL 🐘
 - Docker 🐳
+- Linux 🐧
+- Git/Github/Gitlab 🗂️
+- Github Actions/Jenkins 📦
 
 ## Where can you find me?
 <p align="center">
